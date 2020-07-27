@@ -20,7 +20,7 @@ const Chat = () => {
           <SvgUri
             height={20}
             width={20}
-            uri="http://192.178.31.102:3333/uploads/sliders-h.svg"
+            uri="http://192.178.31.100:3333/uploads/sliders-h.svg"
           />
         </TouchableOpacity>
       </View>
@@ -34,7 +34,7 @@ const Chat = () => {
             </View>
           </View>
         </TouchableOpacity>
-        <TouchableOpacity>
+        {/* <TouchableOpacity>
           <View style={styles.chat}>
             <View style={styles.photo} />
             <View style={{flexDirection: 'column', marginLeft: 8}}>
@@ -51,7 +51,7 @@ const Chat = () => {
               <Text style={styles.chatMessage}>Mensagem da outra da outra pessoa</Text>
             </View>
           </View>
-        </TouchableOpacity>
+        </TouchableOpacity> */}
       </View>
     </View>
   )

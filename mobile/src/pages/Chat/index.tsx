@@ -47,7 +47,7 @@ const Chat = () => {
           <SvgUri
             height={24}
             width={24}
-            uri="http://192.178.31.102:3333/uploads/rocket.svg"
+            uri="http://192.178.31.100:3333/uploads/rocket.svg"
           />
         </TouchableOpacity>
       </View>
