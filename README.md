@@ -12,6 +12,9 @@
 ![](https://img.shields.io/badge/react_native-%2361DAFB?&style=for-the-badge&logo=React&logoColor=242424)
 ![](https://img.shields.io/badge/vs_code-%23007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 
+<img width=180 src="image-project/Smartphone_1.png"/>
+<img width=180 src="image-project/Smartphone_2.png"/>
+
 </div>
 
 ## Descrição
