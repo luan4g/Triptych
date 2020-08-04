@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, View, Text, TouchableOpacity } from 'react-native';
-import { FontAwesome, FontAwesome5 } from '@expo/vector-icons';
+import { FontAwesome5 } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';
 import { SvgUri } from 'react-native-svg';
 
@@ -20,7 +20,7 @@ const Chat = () => {
           <SvgUri
             height={20}
             width={20}
-            uri="http://192.178.31.100:3333/uploads/sliders-h.svg"
+            uri="http://192.178.31.102:3333/uploads/sliders-h.svg"
           />
         </TouchableOpacity>
       </View>
